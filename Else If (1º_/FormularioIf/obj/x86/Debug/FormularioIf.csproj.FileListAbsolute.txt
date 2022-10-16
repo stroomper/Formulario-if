@@ -1,0 +1,9 @@
+C:\Users\alab66\AppData\Local\Temporary Projects\FormularioIf\bin\Debug\FormularioIf.exe
+C:\Users\alab66\AppData\Local\Temporary Projects\FormularioIf\bin\Debug\FormularioIf.pdb
+C:\Users\alab66\AppData\Local\Temporary Projects\FormularioIf\obj\x86\Debug\FormularioIf.Properties.Resources.resources
+C:\Users\alab66\AppData\Local\Temporary Projects\FormularioIf\obj\x86\Debug\FormularioIf.csproj.GenerateResource.Cache
+C:\Users\alab66\AppData\Local\Temporary Projects\FormularioIf\obj\x86\Debug\FormularioIf.exe
+C:\Users\alab66\AppData\Local\Temporary Projects\FormularioIf\obj\x86\Debug\FormularioIf.pdb
+C:\Users\alab66\AppData\Local\Temporary Projects\FormularioIf\obj\x86\Debug\FormularioIf.Form1.resources
+C:\Users\alab66\documents\visual studio 2010\Projects\FormularioIf\FormularioIf\obj\x86\Debug\FormularioIf.exe
+C:\Users\alab66\documents\visual studio 2010\Projects\FormularioIf\FormularioIf\obj\x86\Debug\FormularioIf.pdb
